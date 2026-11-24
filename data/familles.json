@@ -1,0 +1,8 @@
+[
+{"id":"papiers","nom":"Papiers et identité","desc":"Pièce d'identité, état civil, changement d'adresse"},
+{"id":"sante","nom":"Santé","desc":"Assurance maladie, mutuelle, écoute"},
+{"id":"argent","nom":"Argent et impôts","desc":"Banque, impôts, aides"},
+{"id":"logement","nom":"Logement","desc":"Trouver, financer, constituer son dossier"},
+{"id":"sejour","nom":"Visa et séjour","desc":"Pour venir étudier ou s'installer"},
+{"id":"transport","nom":"Transport","desc":"Train, abonnements, réductions"}
+]

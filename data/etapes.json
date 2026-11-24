@@ -1,0 +1,44 @@
+[
+ {
+  "titre": "Préparer ses documents",
+  "domaine": "Administratif",
+  "moment": "Avant l'arrivée",
+  "mots": "papiers pieces justificatifs identite passeport dossier"
+ },
+ {
+  "titre": "Trouver un logement",
+  "domaine": "Logement",
+  "moment": "Avant l'arrivée",
+  "mots": "logement loger location louer appartement studio residence crous"
+ },
+ {
+  "titre": "S'inscrire à la commune",
+  "domaine": "Administratif",
+  "moment": "À l'arrivée",
+  "mots": "mairie commune inscription enregistrer domicile habitant installation"
+ },
+ {
+  "titre": "Souscrire une assurance santé",
+  "domaine": "Santé",
+  "moment": "À l'arrivée",
+  "mots": "assurance sante secu securite sociale mutuelle maladie medecin"
+ },
+ {
+  "titre": "Ouvrir un compte bancaire",
+  "domaine": "Argent",
+  "moment": "Premier mois",
+  "mots": "banque bancaire compte iban carte"
+ },
+ {
+  "titre": "Vérifier ses droits aux aides",
+  "domaine": "Argent",
+  "moment": "Premier mois",
+  "mots": "aides aide caf apl alloc bourse logement droits"
+ },
+ {
+  "titre": "Déclaration d'impôts",
+  "domaine": "Argent",
+  "moment": "Dans l'année",
+  "mots": "impots impot fiscal fisc declaration revenus"
+ }
+]
