@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://alcedai.com/sitemap.xml
